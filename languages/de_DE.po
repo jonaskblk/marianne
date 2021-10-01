@@ -1,0 +1,1385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marianne\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-18 18:43+0000\n"
+"PO-Revision-Date: 2021-10-01 15:54+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: marianne\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#. %d: comment count number.
+#. %d: Comment count number.
+#: comments.php:39 inc/template-tags.php:432
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d Kommentar"
+msgstr[1] "%d Kommentare"
+
+#: comments.php:51
+msgid "&lsaquo; Newer comments"
+msgstr "&lsaquo; Neuere Kommentare"
+
+#: inc/template-tags.php:470
+msgid "&lsaquo; Previous page"
+msgstr "‹ Vorherige Seite"
+
+#: inc/marianne-theme-page.php:343
+msgid ""
+"<a href=\"https://www.knotenpunkte.net/\" rel=\"external\" target=\"_blank"
+"\">Dr. Matthias Kampmann</a>, whose suggestions allowed me to improve some "
+"customization features of the theme."
+msgstr ""
+"<a href=\"https://www.knotenpunkte.net/\" rel=\"external\" target=\"_blank"
+"\">Dr. Matthias Kampmann</a>, dessen Vorschläge es mir ermöglichten, einige "
+"Anpassungsfunktionen des Themas zu verbessern."
+
+#: inc/marianne-theme-page.php:352
+msgid ""
+"<a href=\"https://www.peterpellenaars.nl/\" rel=\"external\" target=\"_blank"
+"\">Peter Pellenaars</a>, who has been a great help in reporting bugs, "
+"improving the text strings, and for its translation into Dutch."
+msgstr ""
+"<a href=\"https://www.peterpellenaars.nl/\" rel=\"external\" target=\"_blank"
+"\">Peter Pellenaars</a>, der eine große Hilfe bei der Meldung von Fehlern, "
+"der Verbesserung der Textzeichenfolgen und der Übersetzung ins "
+"Niederländische war."
+
+#: inc/customizer.php:93
+msgctxt "A font name"
+msgid "Lato"
+msgstr ""
+
+#: inc/customizer.php:130
+msgctxt "A font name"
+msgid "Lora"
+msgstr ""
+
+#: inc/customizer.php:135
+msgctxt "A font name"
+msgid "Merriweather"
+msgstr ""
+
+#: inc/customizer.php:182
+msgctxt "A font name"
+msgid "Monospace (system)"
+msgstr ""
+
+#: inc/customizer.php:98
+msgctxt "A font name"
+msgid "Noto Sans"
+msgstr ""
+
+#: inc/customizer.php:140
+msgctxt "A font name"
+msgid "Noto Serif"
+msgstr ""
+
+#: inc/customizer.php:103
+msgctxt "A font name"
+msgid "Open Sans"
+msgstr ""
+
+#: inc/customizer.php:167
+msgctxt "A font name"
+msgid "PT Mono"
+msgstr ""
+
+#: inc/customizer.php:108
+msgctxt "A font name"
+msgid "PT Sans"
+msgstr ""
+
+#: inc/customizer.php:145
+msgctxt "A font name"
+msgid "PT Serif"
+msgstr ""
+
+#: inc/customizer.php:113
+msgctxt "A font name"
+msgid "Roboto"
+msgstr ""
+
+#: inc/customizer.php:172
+msgctxt "A font name"
+msgid "Roboto Mono"
+msgstr ""
+
+#: inc/customizer.php:150
+msgctxt "A font name"
+msgid "Roboto Slab"
+msgstr ""
+
+#: inc/customizer.php:123
+msgctxt "A font name"
+msgid "Sans Serif (system)"
+msgstr ""
+
+#: inc/customizer.php:160
+msgctxt "A font name"
+msgid "Serif (system)"
+msgstr ""
+
+#: inc/customizer.php:177
+msgctxt "A font name"
+msgid "Source Code Pro"
+msgstr ""
+
+#: inc/customizer.php:118
+msgctxt "A font name"
+msgid "Source Sans Pro"
+msgstr ""
+
+#: inc/customizer.php:155
+msgctxt "A font name"
+msgid "Source Serif Pro"
+msgstr ""
+
+#: inc/marianne-theme-page.php:40 inc/marianne-theme-page.php:41
+#: inc/customizer.php:316
+msgid "About Marianne"
+msgstr "Über Marianne"
+
+#: inc/marianne-theme-page.php:333
+msgid "Acknowledgements"
+msgstr "Danksagungen"
+
+#: inc/customizer.php:799
+msgid "Add a button to go back to the top of the page."
+msgstr "Button hinzufügen, um zum Anfang der Seite zurückzukehren."
+
+#: inc/customizer.php:1036
+msgid "Add a link to the RSS feed of your site."
+msgstr "Link zum RSS-Feed deiner Seite hinzufügen."
+
+#: inc/customizer.php:658 inc/customizer.php:743
+msgid "Add a prefix to the author's name."
+msgstr "Dem Namen des Autors ein Präfix hinzufügen."
+
+#: inc/customizer.php:607
+msgid "Add a search button."
+msgstr "Ein Such-Button hinzufügen."
+
+#: inc/customizer.php:1070
+msgid ""
+"Adds the date the post or page was retrieved and a short link to access the "
+"content. Default: checked."
+msgstr ""
+"Fügt das Datum hinzu, an dem der Beitrag oder die Seite abgerufen wurde, und "
+"einen kurzen Link zum Zugriff auf den Inhalt. Standardmäßig ist diese Option "
+"aktiviert."
+
+#. %s. The name of the social site.
+#: inc/template-tags.php:677
+#, php-format
+msgctxt "Alternative text for social icon images"
+msgid "%s icon"
+msgstr "%s Icon"
+
+#: inc/customizer.php:1029
+msgid "Any link you want to display."
+msgstr "Ein Link, den du einblenden möchtest."
+
+#. Description of the theme
+msgid ""
+"Are you looking for a simple theme to highlight your writings? Marianne is a "
+"rare minimalistic theme in an ocean of maximalism. It gives a touch of old "
+"school blogging to your site, refreshed, with customization options that "
+"make it flexible. If you believe that less graphism complexity means less "
+"distraction and more readability, this theme is made for you. Whether you "
+"are a simple blogger, a writer, a journalist or an intellectual, Marianne "
+"will delight you… and your readers."
+msgstr ""
+"Suchst du ein einfaches Theme, um deine Schriften hervorzuheben? Marianne "
+"ist ein seltenes minimalistisches Theme in einem Ozean des Maximalismus. Es "
+"verleiht deiner Website einen Hauch von Blogging der alten Schule, "
+"aufgefrischt und mit Anpassungsoptionen, die sie flexibel machen. Wenn du "
+"glaubst, dass weniger Komplexität des Graphismus weniger Ablenkung und mehr "
+"Lesbarkeit bedeutet, ist dieses Theme wie für dich gemacht. Egal, ob du ein "
+"einfacher Blogger, Schriftsteller, Journalist oder Intellektueller bist, "
+"Marianne wird dich begeistern… und deine Leser."
+
+#: inc/marianne-theme-page.php:310
+msgid ""
+"As my native language is not English, you can also help me to improve all "
+"the default text strings of the theme."
+msgstr ""
+"Englisch ist nicht meine Muttersprache. Hilf mir, alle Standardtexte des "
+"Themes zu verbessern."
+
+#: inc/customizer.php:722
+msgid "Author's info to display"
+msgstr "Informationen über den Autor"
+
+#: inc/customizer.php:357
+msgid "Auto"
+msgstr "Automatisch"
+
+#: inc/customizer.php:726
+msgid "Avatar"
+msgstr "Avatar"
+
+#: footer.php:72 footer.php:79
+msgid "Back to top"
+msgstr "Zurück nach Oben"
+
+#: inc/customizer.php:723
+msgid ""
+"Before displaying avatars, make sure that they are enabled in Settings > "
+"Discussion."
+msgstr ""
+"Du solltest vor dem Anzeigen von Avataren sicherstellen, dass sie unter "
+"Einstellungen > Diskussion aktiviert sind."
+
+#: inc/customizer.php:368
+msgid "Blue"
+msgstr "Blau"
+
+#: inc/customizer.php:572
+msgid "Bold"
+msgstr "Fett"
+
+#: inc/customizer.php:573
+msgid "Bolder"
+msgstr "Fetter"
+
+#: inc/customizer.php:714
+msgid "Bottom of the post"
+msgstr "Ende des Beitrags"
+
+#: inc/customizer.php:641
+msgid ""
+"Breaks some words in half so that they continue on another line rather than "
+"moving them entirely to the next line. Especially useful when the text "
+"alignment is set to \"justify\". Default: disabled."
+msgstr ""
+"Bricht einige Wörter in zwei Hälften, sodass sie in einer anderen Zeile "
+"fortgesetzt werden, anstatt vollständig in die nächste Zeile zu wandern. Das "
+"ist besonders nützlich, wenn die Textausrichtung auf \"justify\" eingestellt "
+"ist. Diese Option ist standardmäßig deaktiviert."
+
+#. %s: The author's name.
+#: inc/template-tags.php:316 inc/template-tags.php:329
+#, php-format
+msgid "By %s"
+msgstr "Von %s"
+
+#: inc/customizer.php:528
+msgid ""
+"By default, the browser automatically chooses whether or not to smooth the "
+"fonts. By checking this box, you will ask it to smooth them. Default: "
+"unckecked."
+msgstr ""
+"Standardmäßig entscheidet der Browser automatisch, ob die Schriftarten "
+"geglättet werden oder nicht. Wenn du dieses Kontrollkästchen aktivierst, "
+"wirst du aufgefordert, sie zu glätten. Diese Option ist standardmäßig "
+"deaktiviert."
+
+#: inc/customizer.php:659
+msgid "By John Doe. Default: unchecked."
+msgstr "Von John Doe. Standard: deaktiviert."
+
+#: inc/customizer.php:1020
+msgid "Call"
+msgstr "Anruf"
+
+#: inc/marianne-theme-page.php:238
+msgid "Can I display social links with this theme?"
+msgstr "Kann ich mit diesem Theme Social-Media-Links anzeigen?"
+
+#: inc/customizer.php:550 inc/customizer.php:630 inc/customizer.php:773
+msgid "Center"
+msgstr "Mitte"
+
+#: inc/customizer.php:1046
+msgid ""
+"Check to hide comments when priting a post or page. In any case, the comment "
+"form will be hidden. Default: checked."
+msgstr ""
+"Aktiviere diese Option, um Kommentare beim Drucken eines Beitrags oder einer "
+"Seite auszublenden. In jedem Fall wird das Kommentarformular ausgeblendet. "
+"Diese Option ist standardmäßig aktiviert."
+
+#: inc/customizer.php:1054
+msgid ""
+"Check to hide your widgets when priting a post or page. Default: checked."
+msgstr ""
+
+#: inc/classes/class-marianne-customizer-section-about.php:82
+#: inc/classes/class-marianne-customizer-section-about.php:85
+msgid "Close the Customizer and go to About Marianne page"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Color used for link and button hovering. Default: blue."
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Content Formatting"
+msgstr ""
+
+#: inc/marianne-theme-page.php:274
+msgid "Contribute"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Default: 100px."
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Default: 250px."
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Default: checked."
+msgstr ""
+
+#: inc/customizer.php:808
+msgid "Default: footer."
+msgstr ""
+
+#: inc/customizer.php:546 inc/customizer.php:769
+msgid "Default: left."
+msgstr ""
+
+#: inc/customizer.php:595
+msgid "Default: normal."
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Default: Sans serif."
+msgstr ""
+
+#: inc/customizer.php:820
+msgid "Default: square."
+msgstr ""
+
+#: inc/customizer.php:382 inc/customizer.php:651 inc/customizer.php:675
+#: inc/customizer.php:703 inc/customizer.php:744 inc/customizer.php:760
+msgid "Default: unchecked."
+msgstr ""
+
+#: inc/customizer.php:833 inc/customizer.php:1037
+msgid "Default: unckecked."
+msgstr ""
+
+#: inc/marianne-theme-page.php:316
+msgid "Development"
+msgstr ""
+
+#: functions.php:309 inc/customizer.php:864
+msgid "Diaspora"
+msgstr ""
+
+#: inc/customizer.php:759
+msgid "Display a link to the next and the previous post."
+msgstr ""
+
+#: inc/customizer.php:1069
+msgid "Display information related to printing."
+msgstr ""
+
+#: inc/customizer.php:682
+msgid "Display of the post content"
+msgstr ""
+
+#: inc/customizer.php:666 inc/customizer.php:735
+#, fuzzy
+msgid "Display the author's avatar."
+msgstr "— %1$s, der Autor von Marianne"
+
+#: inc/customizer.php:751
+msgid "Display the author's biographical info."
+msgstr ""
+
+#: inc/customizer.php:650
+#, fuzzy
+msgid "Display the author's name."
+msgstr "— %1$s, der Autor von Marianne"
+
+#: inc/customizer.php:791
+msgid "Display the default footer mention."
+msgstr ""
+
+#: inc/customizer.php:674 inc/customizer.php:702
+msgid "Display the post published time after the date."
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Display the title of the front page."
+msgstr ""
+
+#: inc/customizer.php:1061
+#, fuzzy
+msgid "Display URL of links."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/marianne-theme-page.php:147 inc/marianne-theme-page.php:163
+msgid "Donate Bitcoin"
+msgstr ""
+
+#: inc/marianne-theme-page.php:143
+msgid "Donate ₿"
+msgstr ""
+
+#: functions.php:314 inc/customizer.php:976
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:640
+msgid "Enable hyphenation."
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Enable text shadow."
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "Expand featured images that are not wide enough."
+msgstr ""
+
+#: functions.php:319 functions.php:324 inc/customizer.php:856
+msgid "Facebook"
+msgstr ""
+
+#: inc/marianne-theme-page.php:206
+msgid "FAQ"
+msgstr ""
+
+#: inc/customizer.php:888
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Font style of the site description"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Font weight of the site description"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Font weight of the site title"
+msgstr ""
+
+#: inc/customizer.php:812
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:768
+msgid "Footer Align"
+msgstr ""
+
+#: functions.php:58 footer.php:31
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:694
+msgid "For example, \"No comments\" or \"Write a comment\". Default: empty."
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Force anti-aliasing."
+msgstr ""
+
+#: functions.php:329 inc/customizer.php:944
+msgid "GitHub"
+msgstr ""
+
+#: inc/marianne-theme-page.php:183
+msgid "GitHub Repository"
+msgstr ""
+
+#: functions.php:334 inc/customizer.php:952
+msgid "GitLab"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Give some relief to your texts. Default: disabled."
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Global Settings"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Green"
+msgstr ""
+
+#: inc/customizer.php:811
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:545
+msgid "Header Align"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:1045
+#, fuzzy
+msgid "Hide comments."
+msgstr "&lsaquo; Neuere Kommentare"
+
+#: inc/customizer.php:1053
+msgid "Hide widgets."
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Hovered elements"
+msgstr ""
+
+#: inc/marianne-theme-page.php:223
+msgid "How can I change fonts?"
+msgstr ""
+
+#: inc/marianne-theme-page.php:208
+msgid "How can I set up a logo?"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "How do you want to display your social links?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://chezteddy.fr/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://github.com/te2dy/marianne"
+msgstr ""
+
+#: footer.php:59
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:60
+msgid "https://wordpress.org/themes/marianne/"
+msgstr ""
+
+#: inc/marianne-theme-page.php:257
+msgid "I have other questions."
+msgstr ""
+
+#: inc/marianne-theme-page.php:336
+msgid "I would like to thank the following people for their contribution:"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid ""
+"If you increase the width of the page, your featured images may become too "
+"small. In this case, you should regenerate their thumbnails with a plugins "
+"(recommended). Or you can enable the next option. Default: 480px."
+msgstr ""
+
+#: functions.php:339 inc/customizer.php:880
+msgid "Instagram"
+msgstr ""
+
+#: inc/marianne-theme-page.php:276
+msgid "Issues & Feature Requests"
+msgstr ""
+
+#: inc/customizer.php:626
+msgid ""
+"It does not prevent to choose a particular alignment in the text editor. "
+"Default: left."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: inc/customizer.php:608
+msgid ""
+"It will be added as a primary menu item if a menu is set. Default: unchecked."
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Justify"
+msgstr ""
+
+#. %s. The name of the social site.
+#: inc/template-tags.php:670
+#, fuzzy, php-format
+msgctxt "Label for links to social sites."
+msgid "Link to %s"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: inc/customizer.php:390
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:549 inc/customizer.php:629 inc/customizer.php:772
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Light"
+msgstr ""
+
+#: functions.php:344 inc/customizer.php:1028
+msgid "Link"
+msgstr ""
+
+#: inc/template-tags.php:695
+msgid "Link icon"
+msgstr ""
+
+#: inc/template-tags.php:692
+#, fuzzy
+msgid "Link to a custom URL"
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/marianne-theme-page.php:60
+msgctxt "Link to Marianne on WordPress Theme Directory"
+msgid "https://wordpress.org/themes/marianne/"
+msgstr ""
+
+#: inc/template-tags.php:828
+msgctxt "Link to the next post."
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:684
+msgid "Link to the phone number"
+msgstr ""
+
+#: inc/template-tags.php:816
+#, fuzzy
+msgctxt "Link to the previous post."
+msgid "Previous"
+msgstr "‹ Vorherige Seite"
+
+#: inc/template-tags.php:700
+msgid "Link to the RSS feed"
+msgstr ""
+
+#: functions.php:349 inc/customizer.php:936
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/marianne-theme-page.php:363
+msgid "Made in France"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid ""
+"Make sure avatars are enabled in Settings > Discussion. Default: unchecked."
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Make the logo round."
+msgstr ""
+
+#. Name of the theme
+#, fuzzy
+msgid "Marianne"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: functions.php:354 inc/customizer.php:848
+msgid "Mastodon"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Menu"
+msgstr ""
+
+#: inc/marianne-theme-page.php:135
+msgid "Menus"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Monospace Fonts"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Monospaced"
+msgstr ""
+
+#: inc/customizer.php:725
+msgid "Name"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Name & avatar"
+msgstr ""
+
+#: inc/template-tags.php:476
+#, fuzzy
+msgid "Next page &rsaquo;"
+msgstr "‹ Vorherige Seite"
+
+#: inc/customizer.php:571 inc/customizer.php:586 inc/customizer.php:598
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer.php:712
+msgid "Not displayed (default)"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing here"
+msgstr ""
+
+#: comments.php:50
+#, fuzzy
+msgid "Older comments &rsaquo;"
+msgstr "&lsaquo; Neuere Kommentare"
+
+#: inc/customizer.php:394
+msgid "One column"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid ""
+"Only applies if a logo is set (see the Site Identity section). Default: "
+"unckecked."
+msgstr ""
+
+#: inc/customizer.php:752
+msgid ""
+"Only if this info is set on the profile of the author. Default: checked."
+msgstr ""
+
+#: inc/customizer.php:832
+msgid "Open links in a new tab."
+msgstr ""
+
+#: functions.php:245
+msgid "Open submenu"
+msgstr ""
+
+#. %s: The URL of the Theme Customizer.
+#: inc/marianne-theme-page.php:230
+#, php-format
+msgid ""
+"Open the <a href=\"%s\">Theme Customizer</a>. Then, go to Global Settings "
+"and select your favorite font family. Do not forget to press Publish."
+msgstr ""
+
+#. %s: The URL of the Theme Customizer.
+#: inc/marianne-theme-page.php:215
+#, php-format
+msgid ""
+"Open the <a href=\"%s\">Theme Customizer</a>. Then, go to Site Identity and "
+"select a logo. Do not forget to press Publish for the logo to go live."
+msgstr ""
+
+#: inc/template-tags.php:133 inc/template-tags.php:157
+#: inc/template-tags.php:168
+msgid "Open the search form"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:431
+#, fuzzy
+msgid "Page Width"
+msgstr "‹ Vorherige Seite"
+
+#: functions.php:359 inc/customizer.php:1008
+msgid "Phone"
+msgstr ""
+
+#: inc/template-tags.php:687
+msgid "Phone icon"
+msgstr ""
+
+#. %1$s: The URL of the GitHub Issues page of the Marianne repository. %2$s: The URL of the support forum of the theme on WordPress.org
+#: inc/marianne-theme-page.php:283
+#, php-format
+msgid ""
+"Please report issues or make feature requests on <a href=\"%1$s\" rel="
+"\"external\" target=\"_blank\">GitHub</a> or, if you do not have an account, "
+"on the <a href=\"%2$s\" target=\"_blank\">support forum</a>."
+msgstr ""
+
+#. %s: The URL of the support forum of the theme on WordPress.org
+#: inc/marianne-theme-page.php:264
+#, php-format
+msgid ""
+"Please visit the <a href=\"%s\" target=\"_blank\">support forum</a> and post "
+"them."
+msgstr ""
+
+#: inc/customizer.php:710
+#, fuzzy
+msgid "Position of the author's identity"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: inc/template-tags.php:802
+msgid "Post"
+msgstr ""
+
+#: inc/customizer.php:713
+msgid "Post header"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Post List Settings"
+msgstr ""
+
+#: inc/template-tags.php:803
+msgid "Post navigation"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Post Settings"
+msgstr ""
+
+#: inc/template-tags.php:465
+msgid "Posts"
+msgstr ""
+
+#: inc/template-tags.php:466
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:57 inc/template-tags.php:115
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Print Settings"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Purple"
+msgstr ""
+
+#: inc/marianne-theme-page.php:141
+msgid "Rate this theme with ⭐"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Red"
+msgstr ""
+
+#: functions.php:364 inc/customizer.php:968
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:551 inc/customizer.php:631 inc/customizer.php:774
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:824
+msgid "Round"
+msgstr ""
+
+#: functions.php:369
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/template-tags.php:703
+msgid "RSS icon"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Sans serif"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Sans Serif Fonts"
+msgstr ""
+
+#: inc/marianne-theme-page.php:139
+msgid "Say thank you 🙏"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Search button text"
+msgstr ""
+
+#. %s: search term.
+#: search.php:22 search.php:64
+#, fuzzy, php-format
+msgid "Search for \"%s\""
+msgstr "— %1$s, der Autor von Marianne"
+
+#. %d: the number of search results.
+#: search.php:34
+#, fuzzy, php-format
+msgctxt "Search results"
+msgid "%d result found:"
+msgid_plural "%d results found:"
+msgstr[0] "%d Kommentare"
+msgstr[1] "%d Kommentare"
+
+#: inc/template-tags.php:189
+msgid "Search the site"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Serif Fonts"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Sidebar Margin Width"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Sidebar Width"
+msgstr ""
+
+#: functions.php:374 inc/customizer.php:984
+msgid "Signal"
+msgstr ""
+
+#. $1%s: WordPress. $2%s: Marianne.
+#: footer.php:58
+#, fuzzy, php-format
+msgctxt "Site footer text"
+msgid "Powered by %1$s and %2$s"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "SMS"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:568
+msgid "Some fonts do not support 'bolder'. Default: bolder."
+msgstr ""
+
+#: inc/customizer.php:582
+msgid "Some fonts do not support 'Thin'. Default: normal."
+msgstr ""
+
+#: functions.php:379 inc/customizer.php:928
+msgid "Spotify"
+msgstr ""
+
+#: inc/customizer.php:823
+msgid "Square"
+msgstr ""
+
+#: template-parts/content-single.php:17 template-parts/content-loop.php:17
+msgid "Sticky post"
+msgstr ""
+
+#: functions.php:240
+msgid "Submenu opening icon"
+msgstr ""
+
+#: inc/customizer.php:477 inc/customizer.php:491 inc/customizer.php:505
+msgid ""
+"System fonts are faster to load, but their rendering may vary from one "
+"device to another. Other fonts are retrieved from the Google Fonts service. "
+"Default: System."
+msgstr ""
+
+#. Author of the theme
+#: inc/marianne-theme-page.php:103
+msgid "Teddy"
+msgstr ""
+
+#: functions.php:389 inc/customizer.php:992
+msgid "Telegram"
+msgstr ""
+
+#: inc/customizer.php:625
+msgid "Text Align"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Text of the comment link when there are no comments yet"
+msgstr ""
+
+#: inc/marianne-theme-page.php:91
+msgid ""
+"Thank you for using Marianne, a minimalist theme like they don't make "
+"anymore."
+msgstr ""
+
+#: inc/customizer.php:352
+msgid ""
+"The automatic mode chooses between light and dark color scheme depending on "
+"the settings of the operating system or browser of your visitors. The "
+"background color of the dark color scheme is \"intrinsic gray\", which is "
+"the color seen by the human eye in total darkness. Default: light."
+msgstr ""
+
+#. %1$s: Bitcoin scheme followed by address. %2$s: Bitcoin address.
+#: inc/marianne-theme-page.php:154
+#, php-format
+msgctxt "The bitcoin address link."
+msgid "Address: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: inc/customizer.php:685
+msgid "The excerpt only (default)"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "The following settings apply to the main content of posts and pages."
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "The full content"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "The main font size. Default: 100%."
+msgstr ""
+
+#: functions.php:294 inc/customizer.php:896
+msgctxt "The name of the photography site."
+msgid "500px"
+msgstr ""
+
+#: inc/customizer.php:985
+msgid ""
+"The phone number (without spaces, country code required) you registered to "
+"use Signal. Only works with the latest versions of Signal."
+msgstr ""
+
+#: inc/customizer.php:1001
+msgid ""
+"The phone number (without spaces, country code required) you registered to "
+"use WhatsApp."
+msgstr ""
+
+#. %1$s: The date. %2$s: The time.
+#: inc/template-tags.php:236
+#, fuzzy, php-format
+msgctxt "The post date and time"
+msgid "%1$s at %2$s"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: inc/template-tags.php:127 inc/template-tags.php:161
+msgctxt "The search button in the header."
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:72
+msgctxt "The search button text."
+msgid "Search"
+msgstr ""
+
+#: inc/marianne-theme-page.php:86
+msgctxt "The title of the theme page."
+msgid "About Marianne"
+msgstr "Über Marianne"
+
+#: inc/customizer.php:929
+msgid "The URL of the Spotify page you want to share."
+msgstr ""
+
+#. %s: The URL of the Marianne repository on GitHub.
+#: inc/marianne-theme-page.php:323
+#, php-format
+msgid ""
+"There are probably many technical improvements to be made to this theme. You "
+"can help me by <a href=\"%s\" rel=\"external\" target=\"_blank"
+"\">contributing on GitHub</a>."
+msgstr ""
+
+#: inc/marianne-theme-page.php:255
+msgid ""
+"There is no paid version of Marianne. You already have everything this theme "
+"can provide without restrictions."
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "These settings only apply to the printing of the pages of your site."
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Thin"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid ""
+"This can make the images a bit blurry. This is less efficient than "
+"regenerating the images. Default: unchecked."
+msgstr ""
+
+#: search.php:73
+msgid "This search did not return any results."
+msgstr ""
+
+#: inc/customizer.php:1017
+msgid ""
+"This will automatically open the right application on your readers' phone "
+"when they will click on it."
+msgstr ""
+
+#: functions.php:384 inc/customizer.php:920
+msgid "TikTok"
+msgstr ""
+
+#: inc/marianne-theme-page.php:292
+msgid "Translate"
+msgstr ""
+
+#: functions.php:394 inc/customizer.php:960
+msgid "Twitch"
+msgstr ""
+
+#: functions.php:399 inc/customizer.php:840
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Two columns with a left sidebar"
+msgstr ""
+
+#: inc/customizer.php:1062
+msgid ""
+"URLs will be visible on print so that readers can see them and visit them. "
+"Default: checked."
+msgstr ""
+
+#. %s: The short link of the post.
+#: inc/template-tags.php:769
+#, fuzzy, php-format
+msgctxt "Use only on print."
+msgid "Available at: %s"
+msgstr "— %1$s, der Autor von Marianne"
+
+#. %1$s: The retrieve date. %1$s: The retrieve time.
+#: inc/template-tags.php:749
+#, php-format
+msgctxt "Use only on print."
+msgid "Retrieved %1$s at %2$s (website time)."
+msgstr ""
+
+#: inc/customizer.php:792
+msgid ""
+"Useful to promote WordPress and Marianne to your readers. Default: displayed."
+msgstr ""
+
+#: inc/marianne-theme-page.php:133
+msgctxt "Verb. Point to the Theme Customizer."
+msgid "Customize"
+msgstr ""
+
+#. %s: The version number of the theme.
+#: inc/marianne-theme-page.php:115
+#, fuzzy, php-format
+msgid "Version %s"
+msgstr "— %1$s, der Autor von Marianne"
+
+#: functions.php:404 inc/customizer.php:912
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:409 inc/customizer.php:872
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:1016
+msgid "What type of phone link do you want to add?"
+msgstr ""
+
+#: functions.php:414 inc/customizer.php:1000
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/marianne-theme-page.php:253
+msgid "Where can I download the pro/premium version of Marianne?"
+msgstr ""
+
+#: inc/customizer.php:807
+msgid "Where do you want to display your social links?"
+msgstr ""
+
+#: functions.php:200 inc/marianne-theme-page.php:137
+msgid "Widgets"
+msgstr ""
+
+#: inc/marianne-theme-page.php:179
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: inc/marianne-theme-page.php:175
+msgid "WordPress Theme Directory"
+msgstr ""
+
+#. %s: The URL of the Theme Customizer.
+#: inc/marianne-theme-page.php:245
+#, php-format
+msgid ""
+"Yes, you can! Open the <a href=\"%s\">Theme Customizer</a>. Then, go to "
+"Social Links. Everything is in there."
+msgstr ""
+
+#: inc/customizer.php:391
+msgid ""
+"You can choose to display your site in one or two columns, with a left "
+"sidebar. The sidebar will show up only if the screen is wide enough. "
+"Default: one column."
+msgstr ""
+
+#: inc/customizer.php:616
+msgid ""
+"You can customize the button text. Leave blank to use the default text "
+"(Search)."
+msgstr ""
+
+#: inc/customizer.php:783
+msgid "You can write any text to add in the footer."
+msgstr ""
+
+#. %s: The URL of the language repository on GitHub.
+#: inc/marianne-theme-page.php:299
+#, php-format
+msgid ""
+"You want to use Marianne in your language? You can help me to translate it "
+"on <a href=\"%1$s\" rel=\"external\" target=\"_blank\">GitHub</a> where a ."
+"pot file is available."
+msgstr ""
+
+#: inc/customizer.php:897
+#, fuzzy
+msgid "Your 500px page URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:865
+#, fuzzy
+msgid "Your Diaspora profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:977
+#, fuzzy
+msgid "Your email address."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:857
+msgid "Your Facebook profile or page URL."
+msgstr ""
+
+#: inc/customizer.php:889
+#, fuzzy
+msgid "Your Flickr page URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:945
+#, fuzzy
+msgid "Your GitHub profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:953
+#, fuzzy
+msgid "Your GitLab profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:881
+#, fuzzy
+msgid "Your Instagram profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:937
+#, fuzzy
+msgid "Your LinkedIn profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:849
+#, fuzzy
+msgid "Your Mastodon profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:1009
+msgid "Your phone number (without spaces, country code required)."
+msgstr ""
+
+#: inc/customizer.php:969
+#, fuzzy
+msgid "Your Reddit profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:993
+#, fuzzy
+msgid "Your Telegram username."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:921
+#, fuzzy
+msgid "Your TikTok account URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:961
+#, fuzzy
+msgid "Your Twitch profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:841
+msgid "Your Twitter @username. Do not forget the at symbol."
+msgstr ""
+
+#: inc/customizer.php:913
+#, fuzzy
+msgid "Your Vimeo page URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:873
+#, fuzzy
+msgid "Your VK profile URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: inc/customizer.php:905
+msgid "Your YouTube channel URL."
+msgstr "Die URL deines YouTube-Kanals."
+
+#: functions.php:419 inc/customizer.php:904
+msgid "YouTube"
+msgstr "YouTube"
+
+#. %1$s: The name of theme author. %2$s: Bitcoin address.
+#: inc/marianne-theme-page.php:100
+#, php-format
+msgid "— %1$s, the author of Marianne"
+msgstr "— %1$s, der Autor von Marianne"
